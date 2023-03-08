@@ -2,4 +2,4 @@
 
 ## About
 
-In this directory the downloaded videos can be found.
+All downloaded videos can be found here in this directory.
