@@ -22,6 +22,10 @@ The Youtube_Video_Downloader(Youtube_Video_Downloader.exe) doesn't require any k
 
 To use the Youtube_Video_Downloader script(Youtube_Video_Downloader.py), run the script in a Python environment. The script will prompt the user to enter a YouTube video link and select a desired resolution for the video download. Once the video is downloaded, the user can close the window.
 
+```bash
+python Youtube_Video_Downloader.py
+```
+
 ### For the Windows Application
 
 To use the Youtube_Video_Downloader(Youtube_Video_Downloader.exe), run the exe file by double clicking on it. The application will prompt the user to enter a YouTube video link and select a desired resolution for the video download. Once the video is downloaded, the user can close the window.
