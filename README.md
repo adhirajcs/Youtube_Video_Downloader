@@ -26,6 +26,10 @@ To use the Youtube_Video_Downloader script(Youtube_Video_Downloader.py), run the
 
 To use the Youtube_Video_Downloader(Youtube_Video_Downloader.exe), run the exe file by double clicking on it. The application will prompt the user to enter a YouTube video link and select a desired resolution for the video download. Once the video is downloaded, the user can close the window.
 
+## Location of the downloaded videos
+
+All the videos will be downloaded in the downloads folder. If there isn't a downloads folder avaiable then the program will create one and will save the downloaded videos in that folder.
+
 ## Functionality
 
 The script performs the following functionality:
