@@ -1,38 +1,24 @@
+Certainly! Here's the revised documentation without the installation instructions:
+
 # Youtube_Video_Downloader
 
-Youtube_Video_Downloader is a application written in Python script that allows users to download YouTube videos by providing a video link and selecting a desired video resolution. This script uses the Pytube library, which is a lightweight and easy-to-use library for downloading YouTube videos.
-
-## Installation
-
-### For the python script
-
-The Youtube_Video_Downloader script(Youtube_Video_Downloader.py) requires the Pytube library to be installed. You can install this library using pip, a package installer for Python. To install this package, open a command prompt or terminal and run the following command:
-
-```bash
-pip install pytube
-```
-
-### For the Windows Application
-
-The Youtube_Video_Downloader(Youtube_Video_Downloader.exe) doesn't require any kind of installation. All you need to do is to download the exe file.
+Youtube_Video_Downloader is an application written in Python that allows users to download YouTube videos by providing a video link and selecting a desired video resolution. This script uses the Pytube library, a lightweight and easy-to-use library for downloading YouTube videos.
 
 ## Usage
 
-### For the python script
+To use the Youtube_Video_Downloader script(Youtube_Video_Downloader.py) or the Windows Application (Youtube_Video_Downloader.exe), follow these steps:
 
-To use the Youtube_Video_Downloader script(Youtube_Video_Downloader.py), run the script in a Python environment. The script will prompt the user to enter a YouTube video link and select a desired resolution for the video download. Once the video is downloaded, the user can close the window.
+1. For the Python script, run the script in a Python environment. The script will prompt the user to enter a YouTube video link and select a desired resolution for the video download. Once the video is downloaded, the user can close the window.
 
-```bash
-python Youtube_Video_Downloader.py
-```
+   ```bash
+   python Youtube_Video_Downloader.py
+   ```
 
-### For the Windows Application
+2. For the Windows Application, simply run the exe file by double clicking on it. The application will prompt the user to enter a YouTube video link and select a desired resolution for the video download. Once the video is downloaded, the user can close the window.
 
-To use the Youtube_Video_Downloader(Youtube_Video_Downloader.exe), run the exe file by double clicking on it. The application will prompt the user to enter a YouTube video link and select a desired resolution for the video download. Once the video is downloaded, the user can close the window.
+## Location of the Downloaded Videos
 
-## Location of the downloaded videos
-
-All the videos will be downloaded in the downloads folder. If there isn't a downloads folder avaiable then the program will create one and will save the downloaded videos in that folder.
+All the videos will be downloaded in the downloads folder. If there isn't a downloads folder available, the program will create one and save the downloaded videos in that folder.
 
 ## Functionality
 
@@ -49,6 +35,12 @@ The script performs the following functionality:
 ## pytube Documentation
 
 [pytube](https://pytube.io/en/latest/index.html)
+
+## References
+
+- [3 PYTHON AUTOMATION PROJECTS FOR BEGINNERS](https://youtu.be/vEQ8CXFWLZU?t=320&feature=shared) by [Internet Made Coder](https://www.youtube.com/@InternetMadeCoder)
+
+- [How to build python application to linux executable one file](https://youtu.be/KCEd8dsmcLo) by [VFX Pipeline](https://www.youtube.com/@vfxpipeline)
 
 ## Author
 
