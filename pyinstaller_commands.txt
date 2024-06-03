@@ -1,0 +1,3 @@
+pyinstaller --onefile -w '.\Youtube_Video_Downloader.py'
+
+python -m PyInstaller --onefile Youtube_Video_Downloader.py
