@@ -36,9 +36,7 @@ The script performs the following functionality:
 
 [pytube](https://pytube.io/en/latest/index.html)
 
-## References
-
-- [3 PYTHON AUTOMATION PROJECTS FOR BEGINNERS](https://youtu.be/vEQ8CXFWLZU?t=320&feature=shared) by [Internet Made Coder](https://www.youtube.com/@InternetMadeCoder)
+## Reference
 
 - [How to build python application to linux executable one file](https://youtu.be/KCEd8dsmcLo) by [VFX Pipeline](https://www.youtube.com/@vfxpipeline)
 
