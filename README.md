@@ -1,5 +1,3 @@
-Certainly! Here's the revised documentation without the installation instructions:
-
 # Youtube_Video_Downloader
 
 Youtube_Video_Downloader is an application written in Python that allows users to download YouTube videos by providing a video link and selecting a desired video resolution. This script uses the Pytube library, a lightweight and easy-to-use library for downloading YouTube videos.
